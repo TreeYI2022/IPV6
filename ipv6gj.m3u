@@ -64,7 +64,7 @@ http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影
 http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道HD
-http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
+https://pull-l3-cny.douyincdn.com/live/52e9247ae79251551ef60b03fc300e2f.flv
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
 http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HBO家庭影院
