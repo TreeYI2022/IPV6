@@ -30,13 +30,13 @@ http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道HD
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS1 HD
-http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS2 HD
-http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MBC HD
-http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SBS HD
-http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
 #EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民视台湾台
 http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
