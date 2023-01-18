@@ -1,4 +1,5 @@
 #EXTM3U
+台湾省新闻|专区,#genre#
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB华丽翡翠台
@@ -43,6 +44,7 @@ http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
 http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华视新闻资讯
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+哇哩哇哩听不懂|专区,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS1 HD
 http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS2 HD
@@ -55,6 +57,7 @@ http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m
 http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",GinX
 http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+中文电影|专区,#genre#
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台
 http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",莲花电影台
