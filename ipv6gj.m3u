@@ -83,7 +83,7 @@ http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8
 #EXTINF:-1 tvg-id="7180" tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" group-title="港澳台",采昌影剧台
 http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影台
-http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
+http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
 https://pull-l3-cny.douyincdn.com/live/6cab088429681b223cbed5bfc88dc8fd.flv
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影台HD
